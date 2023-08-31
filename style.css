@@ -10,6 +10,7 @@ body {
     background-color: #f5f5f5;
 }
 
+
 .container {
     display: flex;
     justify-content: space-between;
@@ -95,5 +96,5 @@ body {
     color: white;
     font-size: 16px;
     text-align: center;
-    padding: 10px;
+    padding: 8px;
 }
